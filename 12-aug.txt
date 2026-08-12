@@ -1,1 +1,2 @@
-I am learning GIT.
+I am learning GIT. This is version v2.
+Excellence is not a skill. It is an attitude.
